@@ -2,7 +2,6 @@
 
 ## What is this repo?
 
-- Demo of many features of Next.js.
 - Uses the `latest` version of next.js always.
 - No package-lock.json on purpose to avoid pinning a specific version.
 - The index page shows the actual version of Next.js deployed. 
