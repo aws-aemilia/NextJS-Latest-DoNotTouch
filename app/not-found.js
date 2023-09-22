@@ -5,7 +5,7 @@ export default function Page() {
     <Layout>
       <article>
         <h1>404</h1>
-        <p>✅ Test passed. If you see this page, the pages/404.js page is working</p>
+        <p>✅ Test passed. If you see this page, the app/not-found.js page is working</p>
       </article>
     </Layout>
   );
