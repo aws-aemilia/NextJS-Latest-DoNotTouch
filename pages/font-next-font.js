@@ -1,5 +1,5 @@
 import Layout from "../components/layout";
-import { MuseoModerno } from "@next/font/google";
+import { MuseoModerno } from "next/font/google";
 
 const museo = MuseoModerno({
   subsets: ["latin"],
