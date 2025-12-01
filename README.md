@@ -13,5 +13,3 @@ To use a different version of Next.js instead of `latest`, specify the version i
 variable `NEXTJS_VERSION_OVERRIDE` in Amplify Hosting. The `patch-next.sh` file take care of 
 installing the desired version during the build (see amplify.yml). For example you can specify 
 `canary` or `13.4.12`.
-
-..
