@@ -3,6 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
+        - printenv
         - npm install
         - ./patch-next.sh
     build:
@@ -11,4 +12,4 @@ frontend:
   artifacts:
     baseDirectory: .next
     files:
-      - '**/*'
+      - "**/*"
